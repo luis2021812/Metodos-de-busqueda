@@ -1,0 +1,9 @@
+Busqueda secuecial
+Funcion busquedaSecuencial(arreglo: vector de enteros, numero: entero): entero
+	para i desde 0 hasta tamaño(arreglo)-1 hacer
+		Si arreglo[i] es igual a numero entonces
+			retonar 1
+		Fin si
+	Fin para
+	retornar -1
+Fin Funcion
